@@ -1,3 +1,5 @@
 # ACTL5100
 
-Rproj is the zip file
+Provided Material
+R Markdown File
+R Project File provided as a zip file
