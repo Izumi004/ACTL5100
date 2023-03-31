@@ -18,8 +18,9 @@ Storslysia has suffered through various major disasters in the past decades, and
 
 
 
-
-[Picture]
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/124782714/228497774-851513ea-cfb7-48d1-baf1-4308ca92c1f4.png">
+</p>
 
 
 
