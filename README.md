@@ -179,19 +179,6 @@ V.	Social awareness of the benefits of the program should be improved with publi
 VI.	The government of Storslysia may choose to keep the reserve and bear the potential loss caused by inflation to eliminate liquidity risk. 
 VII.	Prompt updates on flood map with enhanced technology and potential collaboration with professional consultant firms in relative field will be of assistance. 
 
-## Risk and Risk Mitigation
-
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/124782714/228505642-5ccfdd69-8dfb-4565-9cbc-c3b2a948f367.png">
-</p>
-
-<h6 align="center"> 
-Figure 6: Risk Matrix
-</h6>
-
-<br/>
-
-
 ## 6. Further recommendation
 
 In addition to the corresponding mitigation strategies for the risks mentioned above, we would like to furnish the following recommendations.
@@ -209,13 +196,3 @@ Most importantly, our simulation established that our constructed program has a 
 ## Conclusion 
 The social insurance program and voluntary relocation scheme are expected to be financially beneficial to the Storslysia government based on our analysis introduced above. Our pricing system offers a range of scenarios based on a variety of assumptions that cover the potential outcomes of our scheme after implementation that proved the feasibility of this program. 
 Yet, further monitoring and tailoring are indispensable. And a review of the enclosed limitations of our program and recommendations followed up with additional information from the government of Storslysia would be instrumental to the improved effectiveness of this program. 
-
-
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/124782714/228497774-851513ea-cfb7-48d1-baf1-4308ca92c1f4.png">
-</p>
-
-<h6 align="center"> 
- Figure 1: Boxplot of Total Expected Damages for 2020 
-</h6>
-
